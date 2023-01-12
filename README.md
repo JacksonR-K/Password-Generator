@@ -7,7 +7,7 @@ The user is prompted with how long they would like their password and which char
 ## Usage
 The user clicks the 'Generate Password' button.
 
-![Demo Image of Generate Password button](./demo-images/demo-img-1.PNG)
+![Demo Image of Generate Password button](./demo-images/demo-img-1.png)
 
 The program then asks the user to select their preferred criteria based on the prompts.
 
