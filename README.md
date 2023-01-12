@@ -1,5 +1,7 @@
 # Password-Generator
 
+![Full Page Demo](./demo-images/deployed-app.PNG)
+
 ## Description
 This program functions as a password generator that creates a personalized password based on a user's preferred characters.
 The user is prompted with how long they would like their password and which character types are to be included in it.
