@@ -19,6 +19,14 @@ Then the new password is displayed to the user.
 
 ![Demo Image of Password](./demo-images/demo-img-3.png)
 
+## Links
+
+Repository:
+https://github.com/JacksonR-K/Password-Generator
+
+Deployed Application:
+https://jacksonr-k.github.io/Password-Generator/
+
 ## Credits
 
 https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
